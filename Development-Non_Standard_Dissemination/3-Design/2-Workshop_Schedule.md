@@ -1,11 +1,15 @@
 # UAS Calculations for Modern Aerial Dissemination
 ## One-Day Workshop Schedule
 
-| Hour | Learning Objective                            | Hour | Learning Objective                          | Hour | Learning Objective                            |     |
-| ---- | --------------------------------------------- | ---- | ------------------------------------------- | ---- | --------------------------------------------- | --- |
-| 0    | Introduction & Key Terms                      | 3    | Lunch                                       | 6    |                                               |     |
-| 1    | UAS Calculation Fundamentals                  | 4    | Flight Plan Development & MISO Integration  | 7    |                                               |     |
-| 2    | Practical Calculation Exercises               | 5    | Make-up Time / Content Review               | 8    | Final Exercises & Potential Early Release     |     |
+| Hour | Learning Objective                            |
+| ---- | --------------------------------------------- |
+| 0    | Introduction & Key Terms                      |
+| 1    | UAS Calculation Fundamentals                  |
+| 2    | Practical Calculation Exercises               |
+| 3    | Lunch                                         |
+| 4    | Flight Plan Development & MISO Integration    |
+| 5    | Make-up Time / Content Review                 |
+| 6    | Final Exercises & Potential Early Release     |
 
 ## Daily Schedule Breakdown
 
