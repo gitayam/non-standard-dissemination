@@ -1,24 +1,23 @@
 | Ordered | Objective Title                   | EST Total Min | Mode of Delivery          |
 | ------- | --------------------------------- | ------------- | ------------------------- |
-| 0       | Course Start                      | 45            | Instruction (Resident)    |
-| 1       | MacOS                             | 30            | Instruction (Resident)    |
-| 2       | Identity and Signature Management | 130           | Guest Instructor          |
-| 2b      | Alternate Stuff, Account Hardening        | 45            | Instruction (Resident)    |
-| 2       | Stuff               | 45            | Instruction (Resident)    |
-| 3       | Email Aliases                     | 15            | Instruction (Resident)    |
-| 3       | DFP Terms                         | 15            | Distributed (Asynchronos) |
-| 3       | Account Authentication            | 60            | Instruction (Resident)    |
-| 4       | Browser Hardening                 | 30            | Instruction (Resident)    |
-| 5       | VPN                               | 30            | Instruction (Resident)    |
-| 6       | Secure Communication              | 45            | Instruction (Resident)    |
-| 6       | Cryptography                      | 70            | Instruction (Resident)    |
-| 7       | Virtual Machines                  | 60            | Instruction (Resident)    |
-| 8       | Windows Hardening                 | 20            | Instruction (Resident)    |
-| 9       | Network Hardening                 | 60            | Instruction (Resident)    |
-| 10      | Mobile Hardening                  | 30            | Instruction (Resident)    |
-| END     | CAPSTONE                          | 50            | Assessment                |
-| END     | Closing                           | 20            | -                         |
-| END     | TOTAL TIME                        | 755           | 15.1                      |
+| 0       | Introduction & Key Terms          | 50            | Instruction (Resident)    |
+| 1       | UAS Calculation Fundamentals      | 50            | Instruction (Resident)    |
+| 2       | Practical Calculation Exercises   | 50            | Instruction (Resident)    |
+| 3       | Lunch Break                       | 60            | -                         |
+| 4       | Flight Plan Development & MISO Integration | 50   | Instruction (Resident)    |
+| 5       | ALIBEIES – Applied Lab (Part 1)   | 50            | Instruction (Resident)    |
+| 6       | ALIBEIES – Applied Lab (Part 2)   | 60            | Instruction (Resident)    |
+| END     | TOTAL TIME                        | 320           | 5.33                      |
+
+## Workshop Description
+UAS Calculations for Modern Aerial Dissemination: This 1-day workshop updates traditional PSYOP aerial dissemination by incorporating SUAS methods. Participants will progress through stages—from memorizing key bilingual terms to applying calculation methods and finally integrating these into a comprehensive flight plan with MISO product development considerations.
+
+## Learning Objectives
+1. Memorize Key Terms: Learn and recall essential terms for SUAS aerial dissemination in English and Spanish.
+2. Understand Calculation Fundamentals: Grasp doctrinal constants (e.g., descent rates, spread factors) and basic drift estimates.
+3. Apply Calculation Methods: Use provided charts and formulas to compute release points and drift patterns.
+4. Develop a Flight Plan: Create a flight plan that integrates SUAS dissemination techniques using calculated data.
+5. Integrate MISO Considerations: Adapt MISO product development to incorporate unique aspects of SUAS aerial dissemination (focus on PAAW).
 
 ## Referenced Terms
 Modes of Delivery:
