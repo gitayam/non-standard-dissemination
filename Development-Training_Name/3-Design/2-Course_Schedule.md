@@ -1,9 +1,5 @@
-| Hour | Learning Objective | Hour | Learning Objective | Hour | Learning Objective |     |
-| ---- | ------------------ | ---- | ------------------ | ---- | ------------------ | --- |
-| 0    |                    | 0    |                    | 0    |                    |     |
-| 1    |                    | 1    |                    | 1    |                    |     |
-| 2    |                    | 2    |                    | 2    |                    |     |
-| 3    |                    | 3    |                    | 3    |                    |     |
-| 4    |                    | 4    |                    | 4    |                    |     |
-| 5    |                    | 5    |                    | 5    |                    |     |
-| 6    |                    | 6    |                    | 6    |                    |     |
+| Hour | Learning Objective                            | Hour | Learning Objective                          | Hour | Learning Objective                            |     |
+| ---- | --------------------------------------------- | ---- | ------------------------------------------- | ---- | --------------------------------------------- | --- |
+| 0    | Introduction & Key Terms                      | 3    | Lunch                                       | 6    |                                               |     |
+| 1    | UAS Calculation Fundamentals                  | 4    | Flight Plan Development & MISO Integration  | 7    |                                               |     |
+| 2    | Practical Calculation Exercises               | 5    | ALIBEIES Applied Lab (Part 1)               | 8    | ALIBEIES Applied Lab (Part 2 & Wrap-Up)       |     |
