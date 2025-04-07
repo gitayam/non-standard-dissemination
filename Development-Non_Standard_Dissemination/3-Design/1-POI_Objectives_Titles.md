@@ -5,8 +5,8 @@
 | 2       | Practical Calculation Exercises   | 50            | Instruction (Resident)    |
 | 3       | Lunch Break                       | 60            | -                         |
 | 4       | Flight Plan Development & MISO Integration | 50   | Instruction (Resident)    |
-| 5       | ALIBEIES – Applied Lab (Part 1)   | 50            | Instruction (Resident)    |
-| 6       | ALIBEIES – Applied Lab (Part 2)   | 60            | Instruction (Resident)    |
+| 5       | Make-up Time / Content Review     | 50            | Instruction (Resident)    |
+| 6       | Final Exercises & Early Release   | 60            | Instruction (Resident)    |
 | END     | TOTAL TIME                        | 320           | 5.33                      |
 
 ## Workshop Description
@@ -18,6 +18,9 @@ UAS Calculations for Modern Aerial Dissemination: This 1-day workshop updates tr
 3. Apply Calculation Methods: Use provided charts and formulas to compute release points and drift patterns.
 4. Develop a Flight Plan: Create a flight plan that integrates SUAS dissemination techniques using calculated data.
 5. Integrate MISO Considerations: Adapt MISO product development to incorporate unique aspects of SUAS aerial dissemination (focus on PAAW).
+
+## Note on Schedule Flexibility
+The final portions of the day include time reserved for content review, make-up work, and completion of unfinished exercises. If all content is covered satisfactorily and there are no alibies (make-up work needed), students may be released early.
 
 ## Referenced Terms
 Modes of Delivery:
