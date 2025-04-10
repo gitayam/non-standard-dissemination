@@ -110,13 +110,13 @@ Given access to bilingual terminology guides, doctrinal references, and interact
 
 #### Instructions:
 1. Question: What are the key terms for leaflet descent rate in both languages?
-    - **Answer**: "Descent Rate" / "Tasa de Descenso"
+    - **Answer**: "Descent Rate" / "Velocidad de Decenso"
 2. Question: How would you explain "dispersion pattern" to a Spanish-speaking operator?
     - **Answer**: "Patrón de Dispersión" - the way leaflets spread after release
-3. Question: What is the correct term for "release point" in Spanish?
-    - **Answer**: "Punto de Liberación"
+3. Question: What are the different terms for "release point" in Spanish?
+    - **Answer**: "Punto de Diseminación", "Punto de Inserción", "Punto de Entrega", "Punto de Lanzamiento", "Zona de Lanzamiento"
 4. Question: How would you describe "wind drift" in operational context?
-    - **Answer**: "Deriva del Viento" - the movement of leaflets caused by wind
+    - **Answer**: "Desviación por Viento" - the movement of leaflets caused by wind
 
 ---
 
