@@ -4,7 +4,7 @@
 **Unclassified**
 
 ## Program of Instruction (POI)
-**UAS Calculations for Modern Aerial Dissemination / Version 1.0**
+** Modern Aerial Dissemination using sUAS/ Version 1.0**
 
 ## Prerequisites
 - Basic understanding of PSYOP operations
