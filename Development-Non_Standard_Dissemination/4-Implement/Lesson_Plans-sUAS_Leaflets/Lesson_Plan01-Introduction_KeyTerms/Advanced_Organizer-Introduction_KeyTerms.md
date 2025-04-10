@@ -117,6 +117,10 @@ Given access to bilingual terminology guides, doctrinal references, and interact
     - **Answer**: "Punto de Diseminación", "Punto de Inserción", "Punto de Entrega", "Punto de Lanzamiento", "Zona de Lanzamiento"
 4. Question: How would you describe "wind drift" in operational context?
     - **Answer**: "Desviación por Viento" - the movement of leaflets caused by wind
+5. Question: What are the regional variations for "sUAS" in Spanish?
+    - **Answer**: "Aeronave No Tripulada Pequeña" or "Dron" - usage may vary by region
+6. Question: What are the different terms for "leaflets" in Spanish?
+    - **Answer**: "Octavillas", "Volantes", or "Propaganda" - usage may vary by region and context
 
 ---
 
