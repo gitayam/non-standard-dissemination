@@ -31,7 +31,6 @@
 
 ## Instructor Information
 - **Point of Contact**: [First Last], [email@example.com]
-- **Office Hours**: [Specify days and times when the instructor is available for consultations.]
 
 ---
 
@@ -142,4 +141,3 @@ For any questions or additional information, please contact:
 - **Training Facilitator Name**: [Instructor Name]
 - **Email**: [email@example.com]
 - **Phone**: [Phone number]
-- **Office Location**: [Office location]
