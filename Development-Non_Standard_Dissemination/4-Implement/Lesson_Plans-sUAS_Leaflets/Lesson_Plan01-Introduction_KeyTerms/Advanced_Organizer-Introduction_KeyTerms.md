@@ -121,6 +121,14 @@ Given access to bilingual terminology guides, doctrinal references, and interact
     - **Answer**: "Aeronave No Tripulada Pequeña" or "Dron" - usage may vary by region
 6. Question: What are the different terms for "leaflets" in Spanish?
     - **Answer**: "Octavillas", "Volantes", or "Propaganda" - usage may vary by region and context
+7. Question: How would you explain the following in Spanish: "The leaflets will be released at 500 feet AGL with a descent rate of 10 feet per second"?
+    - **Answer**: "Las octavillas serán lanzadas a 500 pies sobre el nivel del suelo con una velocidad de decenso de 10 pies por segundo"
+8. Question: How would you brief a Spanish-speaking team about wind conditions affecting the drop: "Wind drift is expected to be 50 meters to the east at the target altitude"?
+    - **Answer**: "Se espera una desviación por viento de 50 metros hacia el este a la altitud objetivo"
+9. Question: How would you describe the following operational plan in Spanish: "The sUAS will approach from the north, release leaflets at the designated point, and maintain a dispersion pattern of 100 meters radius"?
+    - **Answer**: "La aeronave no tripulada pequeña se aproximará desde el norte, lanzará las octavillas en el punto designado, y mantendrá un patrón de dispersión de 100 metros de radio"
+10. Question: How would you brief a complete mission plan in Spanish: "The sUAS will conduct a leaflet drop at 1000 feet AGL, accounting for 75 meters of wind drift to the southeast. The release point will be adjusted accordingly to ensure the leaflets land within the target area"?
+    - **Answer**: "La aeronave no tripulada pequeña realizará un lanzamiento de octavillas a 1000 pies sobre el nivel del suelo, considerando una desviación por viento de 75 metros hacia el sureste. El punto de lanzamiento se ajustará en consecuencia para garantizar que las octavillas aterricen dentro del área objetivo"
 
 ---
 
