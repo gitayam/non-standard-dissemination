@@ -4,7 +4,7 @@
 **Unclassified**
 
 ## Program of Instruction (POI)
-** Modern Aerial Dissemination using sUAS/ Version 1.0**
+**Modern Aerial Dissemination using sUAS/Version 1.0**
 
 ## Prerequisites
 - Basic understanding of PSYOP operations
@@ -30,7 +30,7 @@
 ---
 
 ## Instructor Information
-- **Point of Contact**: [First Last], [email@example.com]
+- **Point of Contact**: ___________________________
 
 ---
 
@@ -139,5 +139,5 @@ N/A
 ## Contact Information
 For any questions or additional information, please contact:
 - **Training Facilitator Name**: [Instructor Name]
-- **Email**: [email@example.com]
-- **Phone**: [Phone number]
+- **Email**: ___________________________
+- **Phone**: ___________________________
