@@ -1,30 +1,35 @@
-# NAME OF LESSON
+# Introduction and Key Terms for sUAS Leaflet Dissemination
 ## Learning Objective
- **Action:** __[Approved-Verb] [Object] [Qualifier].__
+**Action:** Memorize and apply key terms for sUAS aerial dissemination in English and Spanish.
 
- **Conditions:** 
-[ ex. Given an environment that allows the students to engage with one another and the cadre openly, handouts, and research capabilities. take into account what the students already know and what they need to know to be successful in the lesson and the learning environment requirements.]
+**Conditions:** 
+Given access to bilingual terminology guides, doctrinal references, and interactive learning materials, students will demonstrate understanding of key terms and their operational significance in both English and Spanish.
 
- **Standards:** 
-[Terminal Learning Objective (TLO) Standards]
+**Standards:** 
+- Correctly identify and define all key terms in both languages
+- Demonstrate proper usage of terms in operational context
+- Achieve 90% accuracy on terminology assessments
+- Apply terms correctly in practical scenarios
 
 ---
 
 ## Quick Information
 | Title                       | Comment                          |
 | --------------------------- | -------------------------------- |
-| Intended Audience           | [Describe the target audience]   |
-| Learning Domain             | [Cognitive, Affective, etc.]     |
-| Training Resources Required | [List resources required]        |
-| Total Duration              | [Total duration of the lesson] (xx min, break, xx min, break, xx min)   |
+| Intended Audience           | PSYOP planners and operators involved in aerial dissemination operations |
+| Learning Domain             | Cognitive                        |
+| Training Resources Required | - Bilingual terminology guides<br>- Doctrinal references<br>- Interactive learning materials<br>- Projector and screen<br>- Whiteboard and markers |
+| Total Duration              | 50 minutes (15 min CE, 5 min P&P, 45 min GNI, 15 min Develop, 25 min Apply, 10 min COL, 3 min Summary) |
 
 ---
 
 ## Performance Steps
-1. [Describe the first step]
-2. [Describe the second step]
-3. [Describe the third step]
-4. [Describe the fourth step]
+1. Identify and define key sUAS dissemination terms in English
+2. Identify and define key sUAS dissemination terms in Spanish
+3. Demonstrate understanding of operational context for each term
+4. Apply terms correctly in practical scenarios
+5. Participate in bilingual terminology exercises
+6. Complete terminology assessment
 
 ---
 
@@ -33,99 +38,98 @@
 ### Concrete Experience
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 15-20          | Concrete Experience  | [Topic_Goes_Here]           |
+| 15         | Concrete Experience  | Introduction to sUAS Terminology |
 
 #### Instructions:
-- **Tell an interesting anecdote** or recall a recent current event pertaining to the lesson topic to gain the students' attention and motivate them to learn the lesson material. This step does not need to be the exact skill being trained but bring students to the topic by piquing their interest, by identifying the problem of which the skill is the solution, or by showing the relevance of the skill to their lives.
-- **Make students aware of the Army's Contemporary Operational Environment** factors such as physical environment, military capabilities, technology, and information.
-
-##### Example Scenario for Concrete Experience (CE) Use Otheres and then delte this section
-1. Ask students to recall a recent news story related to misinformation or disinformation.
-2. Divide students into small groups and have them discuss the following:
-    1. What was the news story about?
-    2. What elements of the story seemed like misinformation or disinformation?
-    3. How could they verify the accuracy of the information in the story?
-3. Each group presents their discussion to the class.
-4. Write key points from each group’s presentation on the board.
-5. Facilitate a class discussion on the methods used to identify and verify information in news stories.
+- Begin with a real-world scenario of a failed mission due to terminology confusion 
+- Present a case study where miscommunication between English and other language-speaking operators led to operational challenges
+- Ask students to about their what they believe is the issue or gap with terminology when dealing with partners speaking other languages. 
 
 ---
 
 ### Publish and Process
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 05         | Publish and Process  | [Topic_Goes_Here]           |
+| 5          | Publish and Process  | Terminology Challenges |
 
 #### Instructions:
-- **Publish and Process (P&P) SC, Instructor Managed (facilitated):**
-    1. Ask students “what was difficult about identifying misinformation in the news story.”
-    2. Introduce the learning objectives.
-    3. **Transition to GNI**: For example, say, “That's a great point and ties in well with our focus today,” then introduce the learning objective by telling participants what they will be able to do when you finish.
+- Ask students "What challenges did you identify in the scenario?"
+- Discuss the importance of precise terminology in sUAS operations
+- Introduce the learning objectives
+- Transition to GNI by emphasizing the critical role of terminology in mission success
 
 ---
 
 ### Generalize New Information
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 45         | Generalize New Information | [Topic_Goes_Here] |
+| 45         | Generalize New Information | Key Terms Presentation |
 
 #### Instructions:
-- **Generalize New Information (GNI) Instructor Centered:**
-    1. Go over the visual graphic on the speed of cracking passwords.
-    2. Compare and contrast the previous guidance for creating complex passwords.
-    3. Demonstrate how secure and memorable passphrases are.
+- Present key terms in both English and Spanish
+- Demonstrate proper pronunciation and usage
+- Show operational context for each term
+- Provide examples of correct and incorrect usage
+- Use visual aids to reinforce learning including flashcards, diagrams, and videos
+- Include interactive exercises for practice
+- Provide enough time for repetition and practice
 
-################BREAK################
 ---
 
 ### Develop
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 15         | Develop              | [Topic_Goes_Here]           |
+| 15         | Develop              | Terminology Application |
 
 #### Instructions:
-- **Develop (Future Use) SC, Instructor Managed (facilitated):**
-    1. Ask students how they will use this technique.
+- Guide students in creating their own scenarios using the terms
+- Have students explain how they would use these terms in their operations
+- Discuss potential challenges and solutions
+- Reinforce the importance of precise terminology
 
 ---
 
 ### Apply
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 25-30         | Apply                | [Topic_Goes_Here]           |
+| 25         | Apply                | Practical Exercises |
 
 #### Instructions:
-- **Apply (example: practical exercises, exam, etc.) Student Centered:**
-    1. Ask students to write a strong passphrase on the board.
-    2. **Note**: After the Apply phase, you must provide feedback, and then you should have some closing or wrap-up of the lesson.
+- Conduct bilingual terminology drills
+- Present operational scenarios requiring term usage
+- Have students translate and explain terms
+- Practice pronunciation and usage in context
+- Provide immediate feedback and correction
 
 ---
 
 ### Check On Learning
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 10         | Check On Learning    | [Topic_Goes_Here]           |
+| 10         | Check On Learning    | Terminology Assessment |
 
 #### Instructions:
-1. Question: What are the key indicators of misinformation?
-    - **Answer**: [Expected answer]
-2. Question: How can you effectively counter misinformation?
-    - **Answer**: [Expected answer]
-3. Question: What signs indicate rival influence?
-    - **Answer**: [Expected answer]
-4. Question: What are some approaches to mitigate rival influence?
-    - **Answer**: [Expected answer]
+1. Question: What are the key terms for leaflet descent rate in both languages?
+    - **Answer**: "Descent Rate" / "Tasa de Descenso"
+2. Question: How would you explain "dispersion pattern" to a Spanish-speaking operator?
+    - **Answer**: "Patrón de Dispersión" - the way leaflets spread after release
+3. Question: What is the correct term for "release point" in Spanish?
+    - **Answer**: "Punto de Liberación"
+4. Question: How would you describe "wind drift" in operational context?
+    - **Answer**: "Deriva del Viento" - the movement of leaflets caused by wind
 
 ---
 
 ### Lesson Summary
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 03         | Summary              | [Topic_Goes_Here]           |
+| 3          | Summary              | Key Points Review |
 
 #### Instructions:
-1. Review the key points from each Learning Step Activity (LSA).
-2. Emphasize the importance of the skills and knowledge gained.
-3. Questions?
+1. Review all key terms and their importance
+2. Emphasize the critical role of precise terminology in mission success
+3. Remind students of assessment requirements
+4. Open floor for final questions
+5. Preview next lesson on platform selection
 
 ---
