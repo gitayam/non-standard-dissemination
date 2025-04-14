@@ -9,21 +9,21 @@ This document further deviates from GTA 33-01-003 by using meters and kilometers
 
 ## Terms and Definitions
 
-sUAS: Small Unmanned Aerial System
+**sUAS**: Small Unmanned Aerial System
 
-Leaflet: A single sheet of paper or other material used to disseminate information.
+**Leaflet**: A single sheet of paper or other material used to disseminate information.
 
-Leaflet Dispersion: The area that the leaflet will cover when it is dropped from a sUAS.
+**Leaflet Dispersion**: The area that the leaflet will cover when it is dropped from a sUAS.
 
-Wind Azimuth: The direction from which the wind is blowing.
+**Wind Azimuth**: The direction from which the wind is blowing.
 
-Aircraft Descent Time: The time it takes for the aircraft to descend to the target altitude.
+**Aircraft Descent Time**: The time it takes for the aircraft to descend to the target altitude.
 
-Speed:
+**Speed**:
 	1.	Aircraft Speed: The speed at which the aircraft is flying.
 	2.	Wind Speed: The speed at which the wind is blowing.
 
-Drift:
+**Drift**:
 	1.	Forward Drift: The distance the leaflet will drift forward due to the wind.
 	2.	Lateral Drift: The distance the leaflet will drift laterally due to the wind.
 
@@ -31,7 +31,7 @@ Drift:
 
 ## Section 1: Operational Considerations
 
-sUAS operations require accurate wind estimation and leaflet drift calculations for effective dissemination.
+_sUAS operations require accurate wind estimation and leaflet drift calculations for effective dissemination._
 
 For comparison and historical reference, traditional aircraft methods (C‑130, F‑16, UH‑60) and high‑altitude leaflet dissemination techniques are detailed in GTA 33‑01‑003 (June 2014).
 
@@ -59,36 +59,36 @@ During the early phases of the Donbas conflict, Ukrainian volunteer groups adapt
 
 Full‑Scale Conflict and Expanded PSYOP Tactics (2022–Present):
 With Russia’s full‑scale invasion in 2022, both sides enhanced drone‑based PSYOP operations:
-	•	Surrender Appeals: Ukrainian forces have used drones not only to drop mass pamphlets but also to deliver individual surrender notes. In a widely publicized incident near Bakhmut in May 2023, a drone dropped a handwritten note instructing a stranded Russian soldier to surrender. The coordinated effort, with ground forces waiting to safely receive the soldier, illustrated how a precise, drone‑mediated leaflet drop can lead to a tactical and humanitarian advantage.
-	•	Urban PSYOP Beyond the Frontline: In addition to battlefield applications, Ukraine extended drone leaflet drops into urban areas and even across its borders into Russian regions (e.g., Belgorod). These operations have involved distributing leaflets that urge civilians to display Ukrainian symbols or warn of impending strikes, aiming to induce confusion and undermine enemy morale.
-	•	Russian Adaptations: Reports indicate that Russian forces have also experimented with using drones to drop propaganda materials over Ukrainian positions and even to instruct units to surrender, demonstrating that both sides have recognized the psychological value of this low‑cost, highly visible tactic.
+- Surrender Appeals: Ukrainian forces have used drones not only to drop mass pamphlets but also to deliver individual surrender notes. In a widely publicized incident near Bakhmut in May 2023, a drone dropped a handwritten note instructing a stranded Russian soldier to surrender. The coordinated effort, with ground forces waiting to safely receive the soldier, illustrated how a precise, drone‑mediated leaflet drop can lead to a tactical and humanitarian advantage.
+- Urban PSYOP Beyond the Frontline: In addition to battlefield applications, Ukraine extended drone leaflet drops into urban areas and even across its borders into Russian regions (e.g., Belgorod). These operations have involved distributing leaflets that urge civilians to display Ukrainian symbols or warn of impending strikes, aiming to induce confusion and undermine enemy morale.
+- Russian Adaptations: Reports indicate that Russian forces have also experimented with using drones to drop propaganda materials over Ukrainian positions and even to instruct units to surrender, demonstrating that both sides have recognized the psychological value of this low‑cost, highly visible tactic.
 
 ### 3.3 Urban and Asymmetric Warfare Examples
 
 Beyond Ukraine, urban centers and asymmetric operations have also seen the use of drone‑borne leaflet dissemination:
-	•	Gaza Strip Operations (2018–2024):
+- Gaza Strip Operations (2018–2024):
 During escalated conflicts, Israeli forces began dropping multi‑page pamphlets and “newspaper” style leaflets over Gaza urban areas. The messages aimed at sowing distrust among local governance and inducing confusion. The combination of physical leaflets, SMS messages, and drone‑borne loudspeakers has showcased a modern layered approach to PSYOP.
-	•	Training and Exercises (Taiwan 2022):
+- Training and Exercises (Taiwan 2022):
 In military exercises addressing potential urban conflicts, Taiwanese forces have integrated drone‑based leaflet drops. During a simulated invasion in Taoyuan, a PSYOP team deployed an sUAS to rapidly disseminate messages designed to demoralize an invading force or boost local morale, illustrating that these techniques are now being incorporated into formal training scenarios.
 
 ### 3.4 Technical and Operational Considerations from PSYOP Missions
 
 The evolution of drone leaflet drops for PSYOP operations has led to several technical and operational adaptations:
-	•	Payload and Delivery Mechanisms:
+- Payload and Delivery Mechanisms:
 Depending on the mission—whether a mass drop or a single‑message delivery—a variety of payload delivery systems are used. Some operations rely on simple drop boxes that release a pre‑loaded bundle of leaflets, while others use mechanisms adapted from grenade‑release systems to deliver a single note accurately.
-	•	Altitude, Speed, and Drift:
+- Altitude, Speed, and Drift:
 The choice of drop altitude is critical. For troop‑level targeting, altitudes in the 50–200 meter range are commonly employed to ensure the message lands within the target area. Synchronization of sUAS speed with wind drift calculations (as detailed in Section 2 and Appendix A) is crucial for mission accuracy.
-	•	Survivability and Counter‑measures:
+- Survivability and Counter‑measures:
 Drones engaged in PSYOP missions face significant risks including small arms fire, anti‑aircraft systems, and EW attempts. Tactics such as low‑altitude approach, high‑speed entry and exit, and frequency‑hopping have been adapted to reduce risk. The low cost of consumer‑grade sUAS means that even in the event of attrition, the operation remains cost‑effective.
-	•	Coordination with Ground Forces:
+- Coordination with Ground Forces:
 Successful operations are frequently synchronized with ground‑based maneuvers. For instance, when delivering a surrender note, ground forces are alerted and ready to intercept the target, maximizing the tactical benefit of the PSYOP message.
 
 ### 3.5 Summary of PSYOP and Information Campaign Impacts
 
 These modern PSYOP operations using sUAS have proven to be a low‑cost, high‑impact tool when used to:
-	•	Induce enemy surrenders.
-	•	Disrupt enemy events and create psychological disarray.
-	•	Extend influence into urban centers and even enemy territory.
+- Induce enemy surrenders.
+- Disrupt enemy events and create psychological disarray.
+- Extend influence into urban centers and even enemy territory.
 
 The combined lessons from Ukraine, Gaza, and controlled exercises like those in Taiwan underscore that while drone‑based leaflet dissemination may not cover as large an area as traditional methods, its precision and psychological effect can yield substantial strategic advantages.
 
@@ -97,11 +97,11 @@ The combined lessons from Ukraine, Gaza, and controlled exercises like those in 
 ## Section 4: Integration with Planning and Calculations
 
 The technical principles outlined in Sections 1 and 2 are equally applicable whether the leaflet drop is conducted as a traditional PSYOP mission or in coordination with a modern urban information campaign. Operators should consider the following:
-	•	Mission Timing and Wind Analysis:
+- Mission Timing and Wind Analysis:
 Ensure that the calculated drift and dispersion (via the worksheet in Appendix A) take into account any adjustments required for urban terrain and rapid maneuvers characteristic of PSYOP missions.
-	•	Payload Configuration:
+- Payload Configuration:
 Modify your payload release mechanism depending on whether you are dispersing thousands of leaflets over a mass gathering (e.g., during a parade) or delivering a single targeted message to induce surrender.
-	•	Coordination with PSYOP Messaging:
+- Coordination with PSYOP Messaging:
 Integrate the physical leaflet drop with other communication channels such as SMS, loudspeaker broadcasts, or social media amplification to reinforce the psychological effect on the target audience.
 
 ⸻
@@ -113,8 +113,8 @@ This worksheet provides a manual calculation method for sUAS leaflet drops using
 ### Step‑by‑Step Calculation
 
 Step 1: Plot Wind Azimuth
-	•	Mark the center point (target) on your map.
-	•	Draw a line in the wind’s direction using a map protractor or compass rose (no back azimuth required).
+- Mark the center point (target) on your map.
+- Draw a line in the wind’s direction using a map protractor or compass rose (no back azimuth required).
 
 Step 2: Descent Time
 
@@ -126,8 +126,8 @@ Example:
 100 m ÷ 0.76 ≈ 131.6 seconds
 
 Step 3: Forward and Lateral Drift
-	•	UAS Speed (Forward Drift): 8.75 m/s (~17 knots)
-	•	Wind Speed Conversion: Wind (kts) × 0.514 = m/s
+- UAS Speed (Forward Drift): 8.75 m/s (~17 knots)
+- Wind Speed Conversion: Wind (kts) × 0.514 = m/s
 
 Forward Drift = UAS Speed × Descent Time
 Lateral Drift (with auto‑rotation factor) = Wind Speed (m/s) × Descent Time × 1.11
@@ -180,16 +180,16 @@ Provide sample mission profiles and planning scenarios based on historical case 
 ## Appendix D: References
 
 Standards and Manuals:
-	•	GTA 33‑01‑003: Aerial Delivery Operations (Headquarters, Department of the Army, June 2014)
-	•	UAS Leaflet Drop Characteristics, referenced in FM 3‑05‑301 and associated sUAS operational testing documents.
+- GTA 33‑01‑003: Aerial Delivery Operations (Headquarters, Department of the Army, June 2014)
+- UAS Leaflet Drop Characteristics, referenced in FM 3‑05‑301 and associated sUAS operational testing documents.
 
 Case Studies and PSYOP Applications:
-	•	Ukrainian volunteer accounts and Euromaidan Press reports, detailing the May 2016 leaflet drop over Donetsk.
-	•	Defense One analysis on Ukrainian drone‑mediated surrender tactics (May 2023).
-	•	Reports from the Irregular Warfare Initiative on Ukrainian PSYOP teams using drones to induce surrenders.
-	•	UAWire report on drone leaflet drops in Russia’s Belgorod region (June 2024).
-	•	Sputnik News coverage of Russian Dnepr battlegroup experiments with drone‑delivered surrender pamphlets (Nov 2023).
-	•	The New Arab reporting on Israeli drone‑borne “newspaper” drops over Gaza (Feb 2024).
-	•	Taipei Times on Taiwan’s Han Kuang exercise incorporating drone leaflet drops (July 2022).
-	•	Additional OSINT and defense analyses on modern drone‑enabled PSYOP operations.
+- Ukrainian volunteer accounts and Euromaidan Press reports, detailing the May 2016 leaflet drop over Donetsk.
+- Defense One analysis on Ukrainian drone‑mediated surrender tactics (May 2023).
+- Reports from the Irregular Warfare Initiative on Ukrainian PSYOP teams using drones to induce surrenders.
+- UAWire report on drone leaflet drops in Russia’s Belgorod region (June 2024).
+- Sputnik News coverage of Russian Dnepr battlegroup experiments with drone‑delivered surrender pamphlets (Nov 2023).
+- The New Arab reporting on Israeli drone‑borne “newspaper” drops over Gaza (Feb 2024).
+- Taipei Times on Taiwan’s Han Kuang exercise incorporating drone leaflet drops (July 2022).
+- Additional OSINT and defense analyses on modern drone‑enabled PSYOP operations.
 
