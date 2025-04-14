@@ -9,31 +9,21 @@ This document further deviates from GTA 33-01-003 by using meters and kilometers
 
 ## Terms and Definitions
 
-sUAS
+sUAS: Small Unmanned Aerial System
 
-Small Unmanned Aerial System
+Leaflet: A single sheet of paper or other material used to disseminate information.
 
-Leaflet
+Leaflet Dispersion: The area that the leaflet will cover when it is dropped from a sUAS.
 
-A single sheet of paper or other material used to disseminate information.
+Wind Azimuth: The direction from which the wind is blowing.
 
-Leaflet Dispersion
+Aircraft Descent Time: The time it takes for the aircraft to descend to the target altitude.
 
-The area that the leaflet will cover when it is dropped from a sUAS.
-
-Wind Azimuth
-
-The direction from which the wind is blowing.
-
-Aircraft Descent Time
-
-The time it takes for the aircraft to descend to the target altitude.
-
-Speed
+Speed:
 	1.	Aircraft Speed: The speed at which the aircraft is flying.
 	2.	Wind Speed: The speed at which the wind is blowing.
 
-Drift
+Drift:
 	1.	Forward Drift: The distance the leaflet will drift forward due to the wind.
 	2.	Lateral Drift: The distance the leaflet will drift laterally due to the wind.
 
