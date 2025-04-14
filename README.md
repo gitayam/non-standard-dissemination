@@ -5,14 +5,14 @@ This template is designed to assist in the development of training materials for
 To learn more about using git and markdown for unit training, see the [Enhancing Unit Training with Git and Markdown](Git-For_Unit_Training.md) document.
 
 Reference to the following Doctrine from [TRADOC Administrative Publications](https://adminpubs.tradoc.army.mil/pamphlets.html):
-- TP 350-70-1
-- TP 350-70-3
-- TP 350-70-7
-- TP 350-70-9
-- TP 350-70-12
-- TP 350-70-13
-- TP 350-70-14
-- TP 380-10 (Foreign Disclosure Pamphlet)
+- [TP 350-70-1](https://adminpubs.tradoc.army.mil/pamphlets/TP350-70-1.pdf)
+- [TP 350-70-3](https://adminpubs.tradoc.army.mil/pamphlets/TP350-70-3.pdf)
+- [TP 350-70-7](https://adminpubs.tradoc.army.mil/pamphlets/TP350-70-7.pdf)
+- [TP 350-70-9](https://adminpubs.tradoc.army.mil/pamphlets/TP350-70-9.pdf)
+- [TP 350-70-12](https://adminpubs.tradoc.army.mil/pamphlets/TP350-70-12.pdf)
+- [TP 350-70-13](https://adminpubs.tradoc.army.mil/pamphlets/TP350-70-13.pdf)
+- [TP 350-70-14](https://adminpubs.tradoc.army.mil/pamphlets/TP350-70-14.pdf)
+- [TP 380-10 (Foreign Disclosure Pamphlet)](https://adminpubs.tradoc.army.mil/pamphlets/TP380-10.pdf)
 
 And ATP 5-19, Risk Management, 14 April 2014
 ## Providing Feedback and Contributing
