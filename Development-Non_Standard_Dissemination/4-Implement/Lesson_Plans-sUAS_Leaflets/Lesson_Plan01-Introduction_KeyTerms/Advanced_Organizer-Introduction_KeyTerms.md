@@ -1,9 +1,9 @@
 # Introduction and Key Terms for sUAS Leaflet Dissemination
 ## Learning Objective
-**Action:** Memorize and apply key terms for sUAS aerial dissemination in English and Spanish.
+**Action:** Memorize and apply key terms for sUAS aerial dissemination in English and target language.
 
 **Conditions:** 
-Given access to bilingual terminology guides, doctrinal references, and interactive learning materials, students will demonstrate understanding of key terms and their operational significance in both English and Spanish.
+Given access to bilingual terminology guides, doctrinal references, and interactive learning materials, students will demonstrate understanding of key terms and their operational significance in both English and target language.
 
 **Standards:** 
 - Correctly identify and define all key terms in both languages
@@ -18,14 +18,13 @@ Given access to bilingual terminology guides, doctrinal references, and interact
 | --------------------------- | -------------------------------- |
 | Intended Audience           | PSYOP planners and operators involved in aerial dissemination operations |
 | Learning Domain             | Cognitive                        |
-| Training Resources Required | - Bilingual terminology guides<br>- Doctrinal references<br>- Interactive learning materials<br>- Projector and screen<br>- Whiteboard and markers |
+| Training Resources Required | Bilingual terminology guides, Doctrinal references, Interactive learning materials, Projector and screen, Whiteboard and markers |
 | Total Duration              | 50 minutes (15 min CE, 5 min P&P, 45 min GNI, 15 min Develop, 25 min Apply, 10 min COL, 3 min Summary) |
-
 ---
 
 ## Performance Steps
 1. Identify and define key sUAS dissemination terms in English
-2. Identify and define key sUAS dissemination terms in Spanish
+2. Identify and define key sUAS dissemination terms in target language
 3. Demonstrate understanding of operational context for each term
 4. Apply terms correctly in practical scenarios
 5. Participate in bilingual terminology exercises
@@ -66,7 +65,7 @@ Given access to bilingual terminology guides, doctrinal references, and interact
 | 45         | Generalize New Information | Key Terms Presentation |
 
 #### Instructions:
-- Present key terms in both English and Spanish
+- Present key terms in both English and target language
 - Demonstrate proper pronunciation and usage
 - Show operational context for each term
 - Provide examples of correct and incorrect usage
@@ -111,23 +110,23 @@ Given access to bilingual terminology guides, doctrinal references, and interact
 #### Instructions:
 1. Question: What are the key terms for leaflet descent rate in both languages?
     - **Answer**: "Descent Rate" / "Velocidad de Decenso"
-2. Question: How would you explain "dispersion pattern" to a Spanish-speaking operator?
+2. Question: How would you explain "dispersion pattern" to a target language-speaking operator?
     - **Answer**: "Patrón de Dispersión" - the way leaflets spread after release
-3. Question: What are the different terms for "release point" in Spanish?
+3. Question: What are the different terms for "release point" in target language?
     - **Answer**: "Punto de Diseminación", "Punto de Inserción", "Punto de Entrega", "Punto de Lanzamiento", "Zona de Lanzamiento"
 4. Question: How would you describe "wind drift" in operational context?
     - **Answer**: "Desviación por Viento" - the movement of leaflets caused by wind
-5. Question: What are the regional variations for "sUAS" in Spanish?
+5. Question: What are the regional variations for "sUAS" in target language?
     - **Answer**: "Aeronave No Tripulada Pequeña" or "Dron" - usage may vary by region
-6. Question: What are the different terms for "leaflets" in Spanish?
+6. Question: What are the different terms for "leaflets" in target language?
     - **Answer**: "Octavillas", "Volantes", or "Propaganda" - usage may vary by region and context
-7. Question: How would you explain the following in Spanish: "The leaflets will be released at 500 feet AGL with a descent rate of 10 feet per second"?
+7. Question: How would you explain the following in target language: "The leaflets will be released at 500 feet AGL with a descent rate of 10 feet per second"?
     - **Answer**: "Las octavillas serán lanzadas a 500 pies sobre el nivel del suelo con una velocidad de decenso de 10 pies por segundo"
-8. Question: How would you brief a Spanish-speaking team about wind conditions affecting the drop: "Wind drift is expected to be 50 meters to the east at the target altitude"?
+8. Question: How would you brief a target language-speaking team about wind conditions affecting the drop: "Wind drift is expected to be 50 meters to the east at the target altitude"?
     - **Answer**: "Se espera una desviación por viento de 50 metros hacia el este a la altitud objetivo"
-9. Question: How would you describe the following operational plan in Spanish: "The sUAS will approach from the north, release leaflets at the designated point, and maintain a dispersion pattern of 100 meters radius"?
+9. Question: How would you describe the following operational plan in target language: "The sUAS will approach from the north, release leaflets at the designated point, and maintain a dispersion pattern of 100 meters radius"?
     - **Answer**: "La aeronave no tripulada pequeña se aproximará desde el norte, lanzará las octavillas en el punto designado, y mantendrá un patrón de dispersión de 100 metros de radio"
-10. Question: How would you brief a complete mission plan in Spanish: "The sUAS will conduct a leaflet drop at 1000 feet AGL, accounting for 75 meters of wind drift to the southeast. The release point will be adjusted accordingly to ensure the leaflets land within the target area"?
+10. Question: How would you brief a complete mission plan in target language: "The sUAS will conduct a leaflet drop at 1000 feet AGL, accounting for 75 meters of wind drift to the southeast. The release point will be adjusted accordingly to ensure the leaflets land within the target area"?
     - **Answer**: "La aeronave no tripulada pequeña realizará un lanzamiento de octavillas a 1000 pies sobre el nivel del suelo, considerando una desviación por viento de 75 metros hacia el sureste. El punto de lanzamiento se ajustará en consecuencia para garantizar que las octavillas aterricen dentro del área objetivo"
 
 ---
