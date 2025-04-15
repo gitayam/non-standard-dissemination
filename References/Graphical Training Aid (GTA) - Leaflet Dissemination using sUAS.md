@@ -53,7 +53,7 @@ This section details the manual methods and formulas used to estimate the disper
 
 ⸻
 
-## Section 3: Historical and PSYOP Applications of Aerial Leaflet Dissemination
+## Section 3: Historical and PSYOP Applications of Aerial Leaflet Dissemination. This section is from the GTA. 
 
 ### 3.1 Overview
 
