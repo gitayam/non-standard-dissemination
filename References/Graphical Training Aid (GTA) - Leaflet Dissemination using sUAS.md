@@ -43,6 +43,14 @@ Always validate calculations with operational test drops when possible to confir
 
 This section details the manual methods and formulas used to estimate the dispersion area covered by leaflets when dropped from an sUAS. See Appendix A for the UAS Leaflet Drop Calculation Worksheet.
 
+![Standard Leaflet Dispersion](./media/table-2_1-standard_leaflet_rates.png)
+
+![Standard Leaflet Rate per Pound](./media/table-2_2_standard_leaflets_per_pound.png)
+
+![Non Auto-Rotating Leaflet Time Factors](./media/table-2_3-non_auto-rotating-leaflet-time-factors.png)
+
+![Auto-Rotating Leaflet Time Factors](./media/table-2_4-auto-rotating-leaflet-time-factors.png)
+
 ⸻
 
 ## Section 3: Historical and PSYOP Applications of Aerial Leaflet Dissemination
